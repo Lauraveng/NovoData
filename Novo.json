@@ -1,6 +1,5 @@
 {
     "intents": [
-        
         {
             "tag": "hilsen",
             "patterns": [
@@ -26,8 +25,7 @@
             "tag": "farvel",
             "patterns": [
                 "Farvel",
-                "Vi ses senere",
-                "Farvel"
+                "Vi ses senere"
             ],
             "responses": [
                 "Vi ses senere, tak for besøget",
@@ -52,14 +50,14 @@
         {
             "tag": "Medarbejdere arbejder i GITO - Strategy and Transformation i Novo Nordisk",
             "patterns": [
-                "Hvilke medarbejdere arbejder i GITO - Strategy and Transformation i Novo Nordisk?",
+                "Hvilke medarbejdere arbejder i GITO - Strategy and Transformation i Novo Nordisk?"
             ],
             "responses": [
                 "Jeg er ikke helt sikker endnu, men Erik og Nina arbejder der i hvert fald :\n Erik er Head of LPM and local LACE og Nina er studentermedhjælper i afdelingen :\n De er mega søde 😍 "
             ]
         },
         {
-            "tag": "Smart Organisation ",
+            "tag": "Smart Organisation",
             "patterns": [
                 "Hvad er en Smart Organisation?"
             ],
