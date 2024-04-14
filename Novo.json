@@ -1,0 +1,70 @@
+{
+    "intents": [
+        {
+            "tag": "hilsen",
+            "patterns": [
+                "Hej",
+                "Halløj",
+                "Goddag",
+                "God dag"
+            ],
+            "responses": [
+                "Hej søde Laura (og de 400 andre ansatte i Gito som ser med 😊)",
+            ]
+        },
+        {
+            "tag": "svar",
+            "patterns": [
+                "Går det godt?"
+            ],
+            "responses": [
+                "Det går godt. Hvad med dig?"
+            ]
+        },
+        {
+            "tag": "farvel",
+            "patterns": [
+                "Farvel",
+                "Vi ses senere",
+                "Farvel"
+            ],
+            "responses": [
+                "Vi ses senere, tak for besøget",
+                "Hav en god dag",
+                "Farvel! Kom tilbage snart."
+            ]
+        },
+        {
+            "tag": "tak",
+            "patterns": [
+                "Tak",
+                "Tak skal du have",
+                "Tak for hjælpen",
+                "Mange tak!"
+            ],
+            "responses": [
+                "Glad for at kunne hjælpe!",
+                "Altid klar til at hjælpe!",
+                "Det var en fornøjelse"
+            ]
+        },
+        {
+            "tag": "Medarbejdere arbejder i GITO - Strategy and Transformation i Novo Nordisk",
+            "patterns": [
+                "Hvilke medarbejdere arbejder i GITO - Strategy and Transformation i Novo Nordisk?",
+            ],
+            "responses": [
+                "Jeg er ikke helt sikker endnu, men Erik og Nina arbejder der i hvert fald :\n Erik er Head of LPM and local LACE og Nina er studentermedhjælper i afdelingen :\n De er mega søde 😍 "
+            ]
+        },
+        {
+            "tag": "Smart Organisation ",
+            "patterns": [
+                "Hvad er en Smart Organisation?"
+            ],
+            "responses": [
+                "A smart organisation effectively utilizes people, processes and technology. We do this by applying data, and automation to enhance our operations, boost our performance, and achieve superior results. A smart organisation is distinguished by its adaptability to change, its ability to learn from experience, and its capacity to leverage its capabilities. Being smart not only applies to internal operations, but also to external partnerships. As a smart organisation, we strive to set ourselves up for success by making sustainable, bold and innovative decisions."
+            ]
+        }
+    ]
+}
