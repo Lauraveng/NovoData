@@ -1,5 +1,6 @@
 {
     "intents": [
+        
         {
             "tag": "hilsen",
             "patterns": [
@@ -9,7 +10,7 @@
                 "God dag"
             ],
             "responses": [
-                "Hej søde Laura (og de 400 andre ansatte i Gito som ser med 😊)",
+                "Hej søde Laura (og de 400 andre ansatte i Gito som ser med 😊)"
             ]
         },
         {
